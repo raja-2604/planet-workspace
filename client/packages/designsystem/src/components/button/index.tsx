@@ -1,7 +1,7 @@
 function Button() {
   return (
     <div>
-      <button type="button">Planet workspace</button>
+      <button type="button">workspace for planet</button>
     </div>
   );
 }
